@@ -1,0 +1,106 @@
+# Copyright (C) 2024 Frank Kemper
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenLigaWP - Live Sportdaten 2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/openligawp\n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: openligawp.php:52
+msgid "OpenLigaWP Konfiguration"
+msgstr ""
+
+#: openligawp.php:75
+msgid "OpenLigaWP Konfiguration"
+msgstr ""
+
+#: openligawp.php:79
+msgid "Ligen verwalten"
+msgstr ""
+
+#: openligawp.php:81
+msgid "Deine Ligenliste"
+msgstr ""
+
+#: openligawp.php:84
+msgid "Format: Name|Shortcut (pro Zeile)"
+msgstr ""
+
+#: openligawp.php:90
+msgid "Anleitung"
+msgstr ""
+
+#: openligawp.php:91
+msgid "Shortcode:"
+msgstr ""
+
+#: openligawp.php:92
+msgid "Verfuegbare Liga-Shortcuts"
+msgstr ""
+
+#: openligawp.php:99
+msgid "Weitere Ligen auf openligadb.de"
+msgstr ""
+
+#: openligawp.php:140
+msgid "Saison %d/%d"
+msgstr ""
+
+#: openligawp.php:144
+msgid "Liga waehlen..."
+msgstr ""
+
+#: openligawp.php:149
+msgid "(Erst Liga waehlen)"
+msgstr ""
+
+#: openligawp.php:152
+msgid "Aktualisieren"
+msgstr ""
+
+#: openligawp.php:157
+msgid "Waehle eine Liga und klicke auf Aktualisieren."
+msgstr ""
+
+#: openligawp.php:161
+msgid "Datenquelle:"
+msgstr ""
+
+#: openligawp.php:169
+#: openligawp.php:175
+msgid "Ungueltige Parameter"
+msgstr ""
+
+#: openligawp.php:194
+msgid "%d. Spieltag"
+msgstr ""
+
+#: openligawp.php:208
+msgid "Spiele"
+msgstr ""
+
+#: openligawp.php:213
+msgid "Keine Spiele gefunden (oder Ladefehler)."
+msgstr ""
+
+#: openligawp.php:217
+msgid "Tabelle"
+msgstr ""
+
+#: openligawp.php:219
+msgid "Team"
+msgstr ""
+
+#: openligawp.php:219
+msgid "Pkt"
+msgstr ""
+
+#: openligawp.php:166
+msgid "API Fehler: Keine Daten erhalten"
+msgstr ""
